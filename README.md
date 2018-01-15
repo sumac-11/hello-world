@@ -1,4 +1,5 @@
 # hello-world
-Tutorial from github.
 
-Revision of readme in readme-edits branch.
+Tutorial from github.
+In master branch.
+
